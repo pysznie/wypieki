@@ -1,4 +1,4 @@
-const cakes = [ //<--- opis ogólny, błąd 404, telefon, (usunąć listki, przyciąć, nałożyć lukier)
+const cakes = [
 	{
 		name: 'Frappuccino',
 		desc: 'Przepyszne ciasto przekładane. Kakaowy biszkopt, dżem z czarnego bzu lub czarnej porzeczki, krem kajmakowy z mascarpone, krem kawowy śmietanowy, biszkopty. Mocno nasączone kawą z amaretto. Delikatne, wilgotne, idealne. Bardzo polecam!\nWaga około 3200 g.',

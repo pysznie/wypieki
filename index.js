@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 	const main = document.getElementsByTagName('main')[0];
 	const urlParams = new URLSearchParams(window.location.search);
-	if(urlParams.has('cake')) {
+	if(urlParams.has('cake') && cakes[urlParams.get('cake')]) {
 		const cake = cakes[urlParams.get('cake')];
 		main.className = 'cake';
 		main.innerHTML = `
