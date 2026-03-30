@@ -1,8 +1,14 @@
+@font-face {
+  font-family: "Numbers";
+  src: url(https://fonts.gstatic.com/s/sniglet/v18/cIf9MaFLtkE3UjaJ9C6hYQ.woff2) format('woff2'), local('Arial'), local('sans-serif');
+  unicode-range: U+30-39;
+}
+
 body {
 	margin: 0 20px;
 	background-color: #ffc0c0;
 	color: #802000;
-	font-family: "Sour Gummy", sans-serif;
+	font-family: "Numbers", "Sour Gummy", sans-serif;
 }
 
 a {
