@@ -1,7 +1,7 @@
 const cakes = [
 	{
 		name: 'Frappuccino',
-		desc: 'Przepyszne ciasto przekładane. Kakaowy biszkopt, dżem z czarnego bzu lub czarnej porzeczki, krem kajmakowy z mascarpone, krem kawowy śmietanowy, biszkopty. Mocno nasączone kawą z amaretto. Delikatne, wilgotne, idealne. Bardzo polecam!\nWaga około 3200 g.',
+		desc: 'Przepyszne ciasto przekładane. Kakaowy biszkopt, dżem z czarnego bzu lub czarnej porzeczki, krem kajmakowy z mascarpone, krem kawowy śmietanowy, biszkopty. Mocno nasączone kawą z amaretto. Delikatne, wilgotne, idealne. Bardzo polecam!\nWielkość 24x37 cm.\nWaga około 3200 g.',
 		price: '160 zł',
 		images: ['Frappuccino 1.jpg', 'Frappuccino 2.jpg', 'Frappuccino 3.jpg', 'Frappuccino 4.jpg', 'Frappuccino 5.jpg', 'Frappuccino 6.jpg', 'Frappuccino 7.jpg', 'Frappuccino 8.jpg'],
 	},
@@ -25,9 +25,9 @@ const cakes = [
 	},
 	{
 		name: 'Kubanka',
-		desc: 'Pyszne, wilgotne, kremowe ciasto przekładane z nutą alkoholu (rumu). Biszkopt, masa z nutellą, powidła śliwkowe, herbatniki, bita śmietana, czekolada. Czego chcieć więcej?\nWaga około 2600 g.',
+		desc: 'Pyszne, wilgotne, kremowe ciasto przekładane z nutą alkoholu (rumu). Biszkopt, masa z nutellą, powidła śliwkowe, herbatniki, bita śmietana, czekolada. Czego chcieć więcej?\nWielkość 23x34 cm.\nWaga około 2500 g.',
 		price: '130 zł',
-		images: ['Kubanka 1.jpg', 'Kubanka 2.jpg'],
+		images: ['Kubanka 1.jpg', 'Kubanka 2.jpg', 'Kubanka 3.jpg', 'Kubanka 4.jpg'],
 	},
 	{
 		name: 'Makowiec Sylwii',
