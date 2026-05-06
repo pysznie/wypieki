@@ -14,13 +14,13 @@ const cakes = [
 	{
 		name: 'Krówka bananowa bez pieczenia',
 		desc: 'Pyszne ciasto na herbatnikach z masą budyniową, kajmakiem, bitą śmietaną i bananami. Wspaniałe połączenie smaków.\nWielkość 24x34 cm.\nWaga około 3700 g.',
-		price: '130 zł',
+		price: '150 zł',
 		images: ['Krówka bananowa bez pieczenia 1.jpg', 'Krówka bananowa bez pieczenia 2.jpg', 'Krówka bananowa bez pieczenia 3.jpg'],
 	},
 	{
 		name: 'Kruche z malinami i budyniową pianką',
 		desc: 'Kruche ciasto przełożone delikatną waniliową pianką budyniową z malinami. Całość tworzy niesamowity efekt smakowy. Inną opcją jest równie pyszna wersja z rabarbarem.\nWielkość 24x34 cm.\nWaga około 2300 g.',
-		price: '120 zł',
+		price: '130 zł',
 		images: ['Kruche z malinami i budyniową pianką 1.jpg', 'Kruche z malinami i budyniową pianką 2.jpg', 'Kruche z malinami i budyniową pianką 3.jpg', 'Kruche z malinami i budyniową pianką 4.jpg', 'Kruche z malinami i budyniową pianką 5.jpg', 'Kruche z malinami i budyniową pianką 6.jpg', 'Kruche z malinami i budyniową pianką 7.jpg'],
 	},
 	{
@@ -32,7 +32,7 @@ const cakes = [
 	{
 		name: 'Makowiec Sylwii',
 		desc: 'Makowiec zawijany z domową masą makową, z dużą ilością bakalii (migdały, rodzynki, skórka pomarańczowa), z prawdziwym miodem i sokiem z pomarańczy. Pyszny, wilgotny, idealny na swięta.\nWaga około 1100 g.',
-		price: '75 zł',
+		price: '80 zł',
 		images: ['Makowiec Sylwii 1.jpg', 'Makowiec Sylwii 2.jpg', 'Makowiec Sylwii 3.jpg', 'Makowiec Sylwii 4.jpg', 'Makowiec Sylwii 5.jpg'],
 	},
 	{
@@ -86,7 +86,7 @@ const cakes = [
 	{
 		name: 'Sernik z brzoskwiniami i orzechową bezą',
 		desc: 'Idealne połączenie brzoskwiń zatopionych w serniku, kruchego spodu orzechowego i delikatnej orzechowej bezy. Wyjątkowy wypiek z orzechów włoskich, przepyszny smak.\nWielkość 23x27 cm.\nWaga około 2900 g.',
-		price: '150 zł',
+		price: '160 zł',
 		images: ['Sernik z brzoskwiniami i orzechową bezą 1.jpg', 'Sernik z brzoskwiniami i orzechową bezą 2.jpg', 'Sernik z brzoskwiniami i orzechową bezą 3.jpg', 'Sernik z brzoskwiniami i orzechową bezą 4.jpg', 'Sernik z brzoskwiniami i orzechową bezą 5.jpg', 'Sernik z brzoskwiniami i orzechową bezą 6.jpg'],
 	},
 	{
@@ -98,19 +98,19 @@ const cakes = [
 	{
 		name: 'Sernik z malinowym wirem',
 		desc: 'Sernik z dodatkiem mascarpone, na czekoladowym spodzie brownie, wykończony malinowym musem. Równie pyszny jak piękny.\nWielkość 24x34 cm.\nWaga około 3200 g.',
-		price: '160 zł',
+		price: '170 zł',
 		images: ['Sernik z malinowym wirem 1.jpg', 'Sernik z malinowym wirem 2.jpg', 'Sernik z malinowym wirem 3.jpg', 'Sernik z malinowym wirem 4.jpg'],
 	},
 	{
 		name: 'Sernik złota rosa',
 		desc: 'Pyszny, delikatny, kremowy sernik na kruchym spodzie, wykończony pianą z cudownymi złotymi kropelkami rosy.\nWielkość 24x34 cm.\nWaga około 2800 g.',
-		price: '130 zł',
+		price: '150 zł',
 		images: ['Sernik złota rosa 1.jpg', 'Sernik złota rosa 2.jpg', 'Sernik złota rosa 3.jpg', 'Sernik złota rosa 4.jpg', 'Sernik złota rosa 5.jpg'],
 	},
 	{
 		name: 'Snickers',
 		desc: 'Kruche miodowe blaty przekłądane budyniem i kajmakiem, wykończone pyszną karmelową polewą z orzechami włoskimi. W tańszej wersji można je zastąpić orzeszkami ziemnymi. Wspaniałe ciasto na wszelkie uroczystości.\nWielkość 24x34 cm.\nWaga około 2700 g.',
-		price: '130 zł',
+		price: '140 zł',
 		images: ['Snickers 1.jpg', 'Snickers 2.jpg', 'Snickers 3.jpg'],
 	},
 ];
