@@ -21,7 +21,7 @@ const cakes = [
 		name: 'Kruche z malinami i budyniową pianką',
 		desc: 'Kruche ciasto przełożone delikatną waniliową pianką budyniową z malinami. Całość tworzy niesamowity efekt smakowy. Inną opcją jest równie pyszna wersja z rabarbarem.\nWielkość 24x34 cm.\nWaga około 2300 g.',
 		price: '120 zł',
-		images: ['Kruche z malinami i budyniową pianką 1.jpg'/*, 'Kruche z malinami i budyniową pianką 2.jpg'*/, 'Kruche z malinami i budyniową pianką 3.jpg', 'Kruche z malinami i budyniową pianką 4.jpg'],
+		images: ['Kruche z malinami i budyniową pianką 1.jpg', 'Kruche z malinami i budyniową pianką 2.jpg', 'Kruche z malinami i budyniową pianką 3.jpg', 'Kruche z malinami i budyniową pianką 4.jpg', 'Kruche z malinami i budyniową pianką 5.jpg', 'Kruche z malinami i budyniową pianką 6.jpg', 'Kruche z malinami i budyniową pianką 7.jpg'],
 	},
 	{
 		name: 'Kubanka',
@@ -67,9 +67,9 @@ const cakes = [
 	},*/
 	{
 		name: 'Pychotka malinowa',
-		desc: 'Dwa cienkie blaty kruchego ciasta z frużeliną malinową i świeżymi malinami przełożone delikatnym kremem budyniowo-maślanym, wykończone kruchutką bezą z płatkami migdałów. Wyjątkowo pyszne, eleganckie i efektowne ciasto.\nWielkość 24x34 cm.\nWaga około 2600 g.',
+		desc: 'Dwa cienkie blaty kruchego ciasta z frużeliną malinową i świeżymi malinami przełożone delikatnym kremem budyniowo-maślanym, wykończone kruchutką bezą z płatkami migdałów. Wyjątkowo pyszne, eleganckie i efektowne ciasto.\nWielkość 24x34 cm.\nWaga około 2500 g.',
 		price: '190 zł',
-		images: ['Pychotka malinowa 1.jpg', 'Pychotka malinowa 2.jpg', 'Pychotka malinowa 3.jpg', 'Pychotka malinowa 4.jpg'],
+		images: ['Pychotka malinowa 1.jpg', 'Pychotka malinowa 2.jpg', 'Pychotka malinowa 3.jpg', 'Pychotka malinowa 4.jpg', 'Pychotka malinowa 5.jpg', 'Pychotka malinowa 6.jpg', 'Pychotka malinowa 7.jpg', 'Pychotka malinowa 8.jpg'],
 	},
 	{
 		name: 'Sernik mango z morzem borówek',
